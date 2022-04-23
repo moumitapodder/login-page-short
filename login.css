@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+    background-color: aqua;
+}
+.form
+{
+    width:500px;
+    height:500px;
+    border:1px solid red;
+    margin:0;
+    padding:50px;
+    box-sizing: border-box;
+}
+button
+{
+    color: blue;
+    width: 6px;
+    height: 7px;
+}
